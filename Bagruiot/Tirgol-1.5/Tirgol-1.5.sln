@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tirgol-1.5", "Tirgol-1.5.csproj", "{F45340B4-5771-4288-A94E-67F58E88BE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45340B4-5771-4288-A94E-67F58E88BE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45340B4-5771-4288-A94E-67F58E88BE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45340B4-5771-4288-A94E-67F58E88BE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45340B4-5771-4288-A94E-67F58E88BE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92553C61-7B1E-45F1-B5D5-EFD601C0DFBD}
+	EndGlobalSection
+EndGlobal

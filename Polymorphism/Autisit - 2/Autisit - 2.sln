@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autisit - 2", "Autisit - 2.csproj", "{C93724DF-814F-4F9C-B440-25A4BE300777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93724DF-814F-4F9C-B440-25A4BE300777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93724DF-814F-4F9C-B440-25A4BE300777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93724DF-814F-4F9C-B440-25A4BE300777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93724DF-814F-4F9C-B440-25A4BE300777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56F98FA-33ED-45F5-AEEF-4A2E6182499D}
+	EndGlobalSection
+EndGlobal
